@@ -1,4 +1,4 @@
-public class Main{
+public class Find{
 
     static int i = 0;
     public static void main(String[] args) {
